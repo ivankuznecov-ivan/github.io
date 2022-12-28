@@ -2492,6 +2492,15 @@ section:not(:last-child) {
   }
 }
 
+@media (max-width: 360px) {
+  .check-marck__over {
+    width: 1.822vw;
+    height: 1.822vw;
+    margin-top: 2.2vw;
+    margin-left: -2.5vw;
+  }
+}
+
 @media (max-width: 320px) {
 
   .header__container {
