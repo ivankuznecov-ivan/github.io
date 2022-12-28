@@ -2934,7 +2934,7 @@ section:not(:last-child) {
   .check-marck__over {
     width: 4.375vw;
     height: 4.375vw;
-    margin-top: 4vw;
+    margin-top: 1vw;
     margin-left: -6vw;
   }
 }
