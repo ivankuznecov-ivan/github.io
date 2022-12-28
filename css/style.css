@@ -2492,7 +2492,7 @@ section:not(:last-child) {
   }
 }
 
-@media (max-width: 360px) {
+@media (max-width: 420px) {
   .check-marck__over {
     width: 1.822vw;
     height: 1.822vw;
